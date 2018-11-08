@@ -1,0 +1,8 @@
+<component name="ArtifactManager">
+  <artifact type="jar" name="SE&amp;ISD Sess:jar">
+    <output-path>$PROJECT_DIR$/out/artifacts/SE_ISD_Sess_jar</output-path>
+    <root id="archive" name="SE&amp;ISD Sess.jar">
+      <element id="module-output" name="SE&amp;ISD Sess" />
+    </root>
+  </artifact>
+</component>
